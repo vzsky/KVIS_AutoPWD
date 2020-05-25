@@ -1,4 +1,4 @@
-# KVIS_AutoPass
+# KVIS_AutoPWD
 
 KVIS's network security is weak. Why not mess it up just a little?
 
